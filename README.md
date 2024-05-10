@@ -19,3 +19,6 @@ O resultado está dividido em sessões conforme abaixo:
 # **IMPORTANTE** 
 Quando você for utilizar esta automação, ***não forneça os seu dados pessoais, como telefone, endereço ou email***.
 Os resultados são ***apenas sugestões*** e ***não devem ser usados sem ser revisados***.
+
+# **Nota** 
+Para usar esta automação você deve definir o valor para SECRET_KEY, fornecendo o valor de uma GOOGLE_API_KEY válida
